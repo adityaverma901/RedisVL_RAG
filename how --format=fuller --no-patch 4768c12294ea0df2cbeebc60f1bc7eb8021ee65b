@@ -1,0 +1,7 @@
+[33mcommit 4768c12294ea0df2cbeebc60f1bc7eb8021ee65b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author:     Aditya Verma <verma.adii03@gmail.com>
+AuthorDate: Wed Sep 30 22:46:42 2026 +0530
+Commit:     Aditya Verma <verma.adii03@gmail.com>
+CommitDate: Wed Sep 30 22:46:42 2026 +0530
+
+    add: Text splitter and loader defined
